@@ -1,4 +1,4 @@
 <p>Hai Iam TEdtr👻</p>
-<p>Welcome to <b>ToolEditor</b>"</p>
+<p>Welcome to <strong>ToolEditor</strong></p>
 
 
